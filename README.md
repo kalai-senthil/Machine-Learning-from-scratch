@@ -10,7 +10,7 @@ This project was built using [Vite](https://vitejs.dev/), a fast build tool for 
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/kalai-senthil/your-awesome-project.git`
+1. Clone the repository: `git clone https://github.com/kalai-senthil/Machine-Learning-from-scratch.git`
 2. Install dependencies: `bun install`
 3. Start the development server: `bun dev`
 
